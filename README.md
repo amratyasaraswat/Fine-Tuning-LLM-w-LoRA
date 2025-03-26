@@ -40,7 +40,3 @@ repo/
 │-- models/                # Directory to store trained models
 │-- results/               # Evaluation results and logs
 ```
-
-## License
-This project is open-source and available under the MIT License.
-
